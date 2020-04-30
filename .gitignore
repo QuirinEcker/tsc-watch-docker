@@ -218,3 +218,7 @@ $RECYCLE.BIN/
 *.lnk
 
 # End of https://www.gitignore.io/api/linux,macos,windows,jetbrains,intellij+all
+/docker-compose.yml
+/dist/index.js
+/src/index.ts
+/package.json
